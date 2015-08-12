@@ -1,8 +1,8 @@
 # faust
 ======
 
- Github のテスト
+ Github test
 
-## メンバー
+## Member
 
 * testmember
